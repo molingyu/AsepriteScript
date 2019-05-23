@@ -6,7 +6,7 @@ My [Aseprite](https://github.com/aseprite/aseprite) script Lib.
 
 ### Slice by
 
-slice sprite tool.
+Sprite slice tool.
 
 * slice by cell size
 * slice by cell count
